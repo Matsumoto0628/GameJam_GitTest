@@ -1,1 +1,2 @@
 # GameJam_GitTest
+ゲームジャムのGitテストです。
